@@ -1,0 +1,3 @@
+mongodb+srv://utkrishtpathak:d1AFZmUXZqbYX4Yq@cluster0.eihdsfi.mongodb.net/?retryWrites=true&w=majority
+
+d1AFZmUXZqbYX4Yq
